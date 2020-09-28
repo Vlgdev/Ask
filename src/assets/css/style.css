@@ -34,11 +34,11 @@ main {
   margin-bottom: 15px;
 }
 
-.questions__item {
+.question {
   padding: 7px 0;
 }
 
-.questions__item + .questions__item {
+.question + .question {
   border-top: 1px solid #ccc;
 }
 
